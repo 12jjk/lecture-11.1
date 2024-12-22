@@ -1,0 +1,168 @@
+
+
+nav a {
+    font-family: Helvetica;
+font-size: 27px;
+font-weight: 700;
+line-height: 19.55px;
+text-align: left;
+display: block;
+color: #5863E3 !important;
+margin-left: 50px;
+margin-top: 30px;
+
+}
+
+header h1 {
+    font-family: Helvetica;
+        font-size: 49px;
+        font-weight: 400;
+        line-height: 56.35px;
+        text-align: left;
+        color: #000000;
+        display: inline-block;
+        width: 30%;
+        margin-left: 50px;
+        
+       
+        
+        ;
+}
+.texto{
+    @media  (max-width: 768px)  {flex-direction: column;;
+          
+      }
+    }
+
+    form{ 
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+        
+
+    }
+
+
+   form textarea {
+        width:756px; 
+        height:298px; 
+        resize: none;
+        margin-top: 30px;
+        
+
+         
+    }
+
+    form div input {
+        display: flex;
+       flex-direction: column;
+        width: 50px;
+        width:370px; 
+        height: 40px;
+    }
+.info {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.ininfo  {
+ display: flex;
+ flex-direction: column;
+ gap: 20px;
+ align-items: center;
+}
+ .pi {
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;
+    color:#99999A;
+    
+ }
+
+ .tit {
+    font-family: Helvetica;
+font-size: 27px;
+font-weight: 700;
+line-height: 23px;
+color: #4E4D54;
+ }
+
+ h1 {
+    font-family: Helvetica;
+        font-size: 49px;
+        font-weight: 400;
+        line-height: 56.35px;
+        text-align: left;
+        color: #000000;
+        display: inline-block;
+        width: 40%;
+        margin-left: 50px; }
+
+.photos {
+    display: flex;
+    justify-content: space-around;
+   width: 100%;
+   
+}     
+
+.divni {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+h2 {
+    font-family: Helvetica;
+                font-size: 26px;
+                font-weight: 700;
+                line-height: 29.9px;
+                color: #fff;
+}
+
+.po {
+    font-family: Helvetica;
+                font-size: 17px;
+                font-weight: 700;
+                line-height: 19.55px;
+               color: #99999A;
+              
+}
+
+div li  {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+div li ol {
+    width: 80px;
+    font-family: Helvetica;
+font-size: 17px;
+font-weight: 400;
+line-height: 19.55px;
+color: #5863E3;
+}
+
+
+h3 {
+    width: auto;
+    font-family: Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24.15px;
+    color:#fff
+}
+
+.pio{
+
+font-family: Helvetica;
+font-size: 17px;
+font-weight: 400;
+line-height: 19.55px;
+color: #fff;
+
+}     
